@@ -8,6 +8,6 @@ Each folder contains different text mining analyses. This includes
 * TF-IDF of Testimonies
 * Top2Vec for organizing documents
 * Miscellaneous Transformers
-* 
+
 View "The Cambodian Genocide (Final Document) for thorough Analysis
 
