@@ -1,4 +1,4 @@
-# Cambodian-Genocide-Text-Mining
+# Cambodian-Tribunal-Text-Mining
 Text Mining of Transcripts from the ECCC for Downstream Atrocity Prevention
 
 This was a collaborative project in which we analyzed transcripts from the ECCC genocide tribunal, which was gathered through the Genocide Transcript Corpus assembled by Miriam Schirmer.
